@@ -1,6 +1,5 @@
-library(tidyverse)
-library(funk)
-library(cowplot)
+pacman::p_load(ggrepel, ggradar, tidyverse, scales, janitor, cowplot, readxl, install=FALSE)
+source('scripts/theme_sleek.R')
 theme_set(theme_sleek())
 
 th<-theme(axis.text.y=element_text(size=11.5, colour='black'),

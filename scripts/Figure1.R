@@ -1,5 +1,3 @@
-pacman::p_load(ggrepel, tidyverse, skimr, janitor, cowplot, funk, install=FALSE)
-theme_set(theme_sleek())
 source('scripts/00_plotting.R')
 set.seed(42)
 

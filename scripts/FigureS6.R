@@ -1,6 +1,3 @@
-pacman::p_load(tidyverse, skimr, janitor, cowplot, funk, install=FALSE)
-theme_set(theme_sleek())
-
 source('scripts/00_plotting.R')
 
 ## nut ghg for axis order
