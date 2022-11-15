@@ -1,108 +1,108 @@
 "Species group","Common name","Scientific name","Wild-caught or farmed","Edible fraction","Low GHG","High GHG","Median GHG","5-nutrient density, %"
-"Whitefish","Alaska pollock","Gadus chalcogrammus","Wild",38,0.3,2.5,1.4,116
-"Tuna","Albacore","Thunnus alalunga","Wild",63.8,4,5.8,4.9,168
-"Pelagic (large)","Almaco jack","Seriola rivoliana","Farmed",46.3,1.9,4,2.95,114
+"Whitefish","Alaska pollock","Gadus chalcogrammus","Wild",38,0.3,2.5,1.4,97
+"Tuna","Albacore","Thunnus alalunga","Wild",63.8,4,5.8,4.9,160
+"Pelagic (large)","Almaco jack","Seriola rivoliana","Farmed",46.3,1.9,4,2.95,126
 "Bivalve","American cupped oyster","Crassostrea virginica","Farmed",10,0.2,1.1,0.65,214
 "Bivalve","American cupped oyster","Crassostrea virginica","Wild",10,1.2,3.2,2.2,214
-"Pelagic (small)","Anchoveta","Engraulis ringens","Wild",62,0.1,0.1,0.1,230
-"Freshwater fish","Arapaima","Arapaima gigas","Farmed",43,1.8,9.7,5.75,146
-"Salmonidae","Arctic char","Salvelinus alpinus","Farmed",49.3,2.2,3.9,3.05,159
-"Whitefish","Argentine hake","Merluccius hubbsi","Wild",47.3,1.6,4.3,2.95,123
-"Tuna","Atlantic bluefin tuna","Thunnus thynnus","Farmed",60.8,4.7,6.7,5.7,192
-"Tuna","Atlantic bluefin tuna","Thunnus thynnus","Wild",60.8,1.6,6.6,4.1,192
-"Whitefish","Atlantic cod","Gadus morhua","Wild",50,1.5,4,2.75,158
-"Pelagic (small)","Atlantic herring","Clupea harengus","Wild",61,0.2,0.4,0.3,200
+"Pelagic (small)","Anchoveta","Engraulis ringens","Wild",62,0.1,0.1,0.1,187
+"Freshwater fish","Arapaima","Arapaima gigas","Farmed",43,1.8,9.7,5.75,155
+"Salmonidae","Arctic char","Salvelinus alpinus","Farmed",49.3,2.2,3.9,3.05,144
+"Whitefish","Argentine hake","Merluccius hubbsi","Wild",47.3,1.6,4.3,2.95,130
+"Tuna","Atlantic bluefin tuna","Thunnus thynnus","Farmed",60.8,4.7,6.7,5.7,151
+"Tuna","Atlantic bluefin tuna","Thunnus thynnus","Wild",60.8,1.6,6.6,4.1,151
+"Whitefish","Atlantic cod","Gadus morhua","Wild",50,1.5,4,2.75,118
+"Pelagic (small)","Atlantic herring","Clupea harengus","Wild",61,0.2,0.4,0.3,176
 "Pelagic (large)","Atlantic horse mackerel","Trachurus trachurus","Wild",52.2,4.3,6.1,5.2,197
-"Pelagic (large)","Atlantic mackerel","Scomber scombrus","Wild",61,0.2,0.3,0.25,224
-"Pelagic (small)","Atlantic menhaden","Brevoortia tyrannus","Wild",60,0.1,0.2,0.15,247
-"Salmonidae","Atlantic salmon","Salmo salar","Farmed",49.3,1.6,2.9,2.25,180
- ,"Barramundi","Lates calcarifer","Farmed",43.8,2.5,28.1,15.3,177
- ,"Barramundi","Lates calcarifer","Farmed",52.5,2.5,28.1,15.3,177
-"Tuna","Bigeye tuna","Thunnus obesus","Wild",57.2,2,12.4,7.2,163
+"Pelagic (large)","Atlantic mackerel","Scomber scombrus","Wild",61,0.2,0.3,0.25,188
+"Pelagic (small)","Atlantic menhaden","Brevoortia tyrannus","Wild",60,0.1,0.2,0.15,169
+"Salmonidae","Atlantic salmon","Salmo salar","Farmed",49.3,1.6,2.9,2.25,179
+ ,"Barramundi","Lates calcarifer","Farmed",43.8,2.5,28.1,15.3,149
+ ,"Barramundi","Lates calcarifer","Farmed",52.5,2.5,28.1,15.3,149
+"Tuna","Bigeye tuna","Thunnus obesus","Wild",57.2,2,12.4,7.2,158
 "Crustacean","Blue crab","Callinectes sapidus","Wild",25,5.2,19.3,12.25,179
-"Whitefish","Blue grenadier","Macruronus novaezelandiae","Wild",52.5,3.4,4.6,4,163
+"Whitefish","Blue grenadier","Macruronus novaezelandiae","Wild",52.5,3.4,4.6,4,136
 "Bivalve","Blue mussel","Mytilus edulis","Farmed",26,0.02,0.2,0.11,208
 "Bivalve","Blue mussel","Mytilus edulis","Wild",26,0.1,0.1,0.1,208
-"Pelagic (large)","California yellowtail","Seriola lalandi","Farmed",46.3,1.9,4,2.95,182
-"Pelagic (large)","Capelin","Mallotus villosus","Wild",60,0.1,0.1,0.1,176
-"Freshwater fish","Channel catfish","Ictalurus punctatus","Farmed",52.5,3.9,22.3,13.1,163
-"Salmonidae","Chinook salmon","Oncorhynchus tshawytscha","Farmed",55,2.1,3.6,2.85,220
-"Salmonidae","Chinook salmon","Oncorhynchus tshawytscha","Wild",55,1.4,8.5,4.95,220
-"Pelagic (large)","Chub mackerel","Scomber japonicus","Wild",62,0.1,0.4,0.25,170
-"Salmonidae","Chum salmon","Oncorhynchus keta","Wild",62,1.4,4.3,2.85,215
-"Pelagic (large)","Cobia","Rachycentron canadum","Farmed",43,3.8,6.2,5,144
-"Salmonidae","Coho salmon","Oncorhynchus kisutch","Wild",62,1.4,4.3,2.85,225
-"Freshwater fish","Common carp","Cyprinus carpio","Farmed",47.5,0.7,12.9,6.8,102
+"Pelagic (large)","California yellowtail","Seriola lalandi","Farmed",46.3,1.9,4,2.95,149
+"Pelagic (large)","Capelin","Mallotus villosus","Wild",60,0.1,0.1,0.1,124
+"Freshwater fish","Channel catfish","Ictalurus punctatus","Farmed",52.5,3.9,22.3,13.1,172
+"Salmonidae","Chinook salmon","Oncorhynchus tshawytscha","Farmed",55,2.1,3.6,2.85,205
+"Salmonidae","Chinook salmon","Oncorhynchus tshawytscha","Wild",55,1.4,8.5,4.95,205
+"Pelagic (large)","Chub mackerel","Scomber japonicus","Wild",62,0.1,0.4,0.25,162
+"Salmonidae","Chum salmon","Oncorhynchus keta","Wild",62,1.4,4.3,2.85,211
+"Pelagic (large)","Cobia","Rachycentron canadum","Farmed",43,3.8,6.2,5,127
+"Salmonidae","Coho salmon","Oncorhynchus kisutch","Wild",62,1.4,4.3,2.85,218
+"Freshwater fish","Common carp","Cyprinus carpio","Farmed",47.5,0.7,12.9,6.8,69
 "Cephalopod","Common octopus","Octopus vulgaris","Wild",67.7,9.6,15.2,12.4,188
-"Whitefish","Common sole","Solea solea","Wild",52.6,11.5,13.7,12.6,132
-"Pelagic (small)","European anchovy","Engraulis encrasicolus","Wild",61.6,0.4,1.6,1,231
- ,"European bass","Dicentrarchus labrax","Farmed",43,2.6,44.4,23.5,129
-"Whitefish","European hake","Merluccius merluccius","Wild",52.8,5.2,13.3,9.25,130
-"Pelagic (small)","European pilchard","Sardina pilchardus","Wild",62,0.4,1.6,1,274
-"Whitefish","European plaice","Pleuronectes platessa","Wild",51.9,1.3,14.6,7.95,163
-"Pelagic (small)","European sprat","Sprattus sprattus","Wild",56,0.4,1.6,1,161
- ,"Flathead mullet","Mugil cephalus","Wild",50,1.3,2.2,1.75,278
-"Whitefish","Flounder","Platichthys flesus","Wild",47.9,12.2,14.6,13.4,151
- ,"Gilt-head seabream","Sparus aurata","Farmed",43,2.1,22.7,12.4,129
-"Freshwater fish","Grass carp","Ctenopharyngodon idella","Farmed",47.5,0.7,12.9,6.8,170
-"Whitefish","Greenland halibut","Reinhardtius hippoglossoides","Wild",52.6,2.2,4.3,3.25,128
- ,"Groupers","Epinephelus","Wild",46.3,2.2,4.3,3.25,137
-"Pelagic (small)","Gulf menhaden","Brevoortia patronus","Wild",60,0.2,0.2,0.2,187
-"Whitefish","Haddock","Melanogrammus aeglefinus","Wild",49.3,3.6,4.2,3.9,159
-"Pelagic (small)","Indian oil sardine","Sardinella longiceps","Wild",65,0.6,0.7,0.65,196
-"Pelagic (large)","Japanese amberjack","Seriola quinqueradiata","Farmed",46.3,2,4,3,154
-"Whitefish","Ling","Molva molva","Wild",52.5,1.9,4.3,3.1,143
+"Whitefish","Common sole","Solea solea","Wild",52.6,11.5,13.7,12.6,107
+"Pelagic (small)","European anchovy","Engraulis encrasicolus","Wild",61.6,0.4,1.6,1,209
+ ,"European bass","Dicentrarchus labrax","Farmed",43,2.6,44.4,23.5,101
+"Whitefish","European hake","Merluccius merluccius","Wild",52.8,5.2,13.3,9.25,129
+"Pelagic (small)","European pilchard","Sardina pilchardus","Wild",62,0.4,1.6,1,252
+"Whitefish","European plaice","Pleuronectes platessa","Wild",51.9,1.3,14.6,7.95,136
+"Pelagic (small)","European sprat","Sprattus sprattus","Wild",56,0.4,1.6,1,105
+ ,"Flathead mullet","Mugil cephalus","Wild",50,1.3,2.2,1.75,190
+"Whitefish","Flounder","Platichthys flesus","Wild",47.9,12.2,14.6,13.4,100
+ ,"Gilt-head seabream","Sparus aurata","Farmed",43,2.1,22.7,12.4,83
+"Freshwater fish","Grass carp","Ctenopharyngodon idella","Farmed",47.5,0.7,12.9,6.8,142
+"Whitefish","Greenland halibut","Reinhardtius hippoglossoides","Wild",52.6,2.2,4.3,3.25,131
+ ,"Groupers","Epinephelus","Wild",46.3,2.2,4.3,3.25,138
+"Pelagic (small)","Gulf menhaden","Brevoortia patronus","Wild",60,0.2,0.2,0.2,164
+"Whitefish","Haddock","Melanogrammus aeglefinus","Wild",49.3,3.6,4.2,3.9,164
+"Pelagic (small)","Indian oil sardine","Sardinella longiceps","Wild",65,0.6,0.7,0.65,185
+"Pelagic (large)","Japanese amberjack","Seriola quinqueradiata","Farmed",46.3,2,4,3,149
+"Whitefish","Ling","Molva molva","Wild",52.5,1.9,4.3,3.1,142
 "Bivalve","Mediterranean mussel","Mytilus galloprovincialis","Farmed",25,0.02,0.2,0.11,240
-"Tilapia","Nile tilapia","Oreochromis niloticus","Farmed",27.5,2.9,12,7.45,185
-"Whitefish","North Pacific hake","Merluccius productus","Wild",51,1.6,4.3,2.95,136
+"Tilapia","Nile tilapia","Oreochromis niloticus","Farmed",27.5,2.9,12,7.45,228
+"Whitefish","North Pacific hake","Merluccius productus","Wild",51,1.6,4.3,2.95,120
 "Crustacean","Northern prawn","Pandalus borealis","Wild",35.5,4,6.7,5.35,179
 "Crustacean","Norway lobster","Nephrops norvegicus","Wild",25,4.5,26,15.25,159
 "Bivalve","Ocean quahog","Arctica islandica","Wild",25,0.2,0.8,0.5,170
-"Tuna","Pacific bluefin tuna","Thunnus orientalis","Farmed",60.4,4.7,6.8,5.75,200
-"Tuna","Pacific bluefin tuna","Thunnus orientalis","Wild",60.4,5,10.2,7.6,200
-"Whitefish","Pacific cod","Gadus macrocephalus","Wild",39.4,1.4,4.3,2.85,132
+"Tuna","Pacific bluefin tuna","Thunnus orientalis","Farmed",60.4,4.7,6.8,5.75,154
+"Tuna","Pacific bluefin tuna","Thunnus orientalis","Wild",60.4,5,10.2,7.6,154
+"Whitefish","Pacific cod","Gadus macrocephalus","Wild",39.4,1.4,4.3,2.85,98
 "Bivalve","Pacific cupped oyster","Crassostrea gigas","Farmed",10,0.2,1,0.6,214
 "Bivalve","Pacific cupped oyster","Crassostrea gigas","Wild",10,1.2,3.2,2.2,214
-"Whitefish","Pacific halibut","Hippoglossus stenolepis","Wild",61.8,3.6,6.7,5.15,143
-"Pelagic (small)","Pacific herring","Clupea pallasii pallasii","Wild",60,0.6,2.6,1.6,193
-"Freshwater fish","Pangasius/Basa","Pangasius bocourti","Farmed",34,1.4,24.6,13,166
-"Salmonidae","Pink salmon","Oncorhynchus gorbuscha","Wild",62,0.8,3.7,2.25,226
-"Salmonidae","Rainbow trout","Oncorhynchus mykiss","Farmed",49.3,3,8.7,5.85,228
-"Whitefish","Saithe","Pollachius virens","Wild",51.7,1.9,2,1.95,163
-"Salmonidae","Sea trout","Salmo trutta","Farmed",57.4,1.3,8.2,4.75,214
- ,"Siberian sturgeon","Acipenser baerii","Farmed",60.5,1.9,14.7,8.3,179
-"Freshwater fish","Silver carp","Hypophthalmichthys molitrix","Farmed",47.5,0.7,12.8,6.75,190
-"Pelagic (large)","Silver pomfrets","Pampus argenteus","Wild",46.3,1.5,4.3,2.9,142
-"Tuna","Skipjack tuna","Katsuwonus pelamis","Wild",64.2,1.6,6.3,3.95,195
-"Salmonidae","Sockeye salmon","Oncorhynchus nerka","Wild",62,1.6,4.8,3.2,218
-"Pelagic (small)","South American pilchard","Sardinops sagax","Wild",53,0.4,1.6,1,229
-"Whitefish","Southern blue whiting","Micromesistius australis","Wild",50.3,1,1.1,1.05,83
-"Tuna","Southern bluefin tuna","Thunnus maccoyii","Farmed",58,4.7,6.8,5.75,169
-"Tuna","Southern bluefin tuna","Thunnus maccoyii","Wild",58,5,10.2,7.6,169
-"Tuna","Swordfish","Xiphias gladius","Wild",67.9,6.8,11.9,9.35,140
-"Whitefish","Turbot","Scophthalmus maximus","Farmed",43,13.1,27.7,20.4,148
-"Whitefish","Yellowfin sole","Limanda aspera","Wild",49,11.5,13.7,12.6,98
-"Tuna","Yellowfin tuna","Thunnus albacares","Wild",61.3,1.8,8.7,5.25,185
-"Crustacean","American lobster","Homarus americanus","Wild",30,5,18.3,11.65,168
-"Bivalve","American sea scallop","Placopecten magellanicus","Wild",10.7,1.5,1.6,1.55,168
-"Crustacean","Antarctic krill","Euphausia superba","Wild",12.5,0.5,0.8,0.65,168
-"Crustacean","Argentine red shrimp","Pleoticus muelleri","Wild",58,5.7,15.4,10.55,168
-"Cephalopod","Argentine shortfin squid","Illex argentinus","Wild",67,1.1,5.3,3.2,168
-"Crustacean","Australian spiny lobster","Panulirus cygnus","Wild",25,3.9,16.8,10.35,168
+"Whitefish","Pacific halibut","Hippoglossus stenolepis","Wild",61.8,3.6,6.7,5.15,146
+"Pelagic (small)","Pacific herring","Clupea pallasii pallasii","Wild",60,0.6,2.6,1.6,190
+"Freshwater fish","Pangasius/Basa","Pangasius bocourti","Farmed",34,1.4,24.6,13,186
+"Salmonidae","Pink salmon","Oncorhynchus gorbuscha","Wild",62,0.8,3.7,2.25,219
+"Salmonidae","Rainbow trout","Oncorhynchus mykiss","Farmed",49.3,3,8.7,5.85,212
+"Whitefish","Saithe","Pollachius virens","Wild",51.7,1.9,2,1.95,164
+"Salmonidae","Sea trout","Salmo trutta","Farmed",57.4,1.3,8.2,4.75,144
+ ,"Siberian sturgeon","Acipenser baerii","Farmed",60.5,1.9,14.7,8.3,146
+"Freshwater fish","Silver carp","Hypophthalmichthys molitrix","Farmed",47.5,0.7,12.8,6.75,145
+"Pelagic (large)","Silver pomfrets","Pampus argenteus","Wild",46.3,1.5,4.3,2.9,137
+"Tuna","Skipjack tuna","Katsuwonus pelamis","Wild",64.2,1.6,6.3,3.95,196
+"Salmonidae","Sockeye salmon","Oncorhynchus nerka","Wild",62,1.6,4.8,3.2,214
+"Pelagic (small)","South American pilchard","Sardinops sagax","Wild",53,0.4,1.6,1,233
+"Whitefish","Southern blue whiting","Micromesistius australis","Wild",50.3,1,1.1,1.05,100
+"Tuna","Southern bluefin tuna","Thunnus maccoyii","Farmed",58,4.7,6.8,5.75,176
+"Tuna","Southern bluefin tuna","Thunnus maccoyii","Wild",58,5,10.2,7.6,176
+"Tuna","Swordfish","Xiphias gladius","Wild",67.9,6.8,11.9,9.35,141
+"Whitefish","Turbot","Scophthalmus maximus","Farmed",43,13.1,27.7,20.4,86
+"Whitefish","Yellowfin sole","Limanda aspera","Wild",49,11.5,13.7,12.6,93
+"Tuna","Yellowfin tuna","Thunnus albacares","Wild",61.3,1.8,8.7,5.25,149
+"Crustacean","American lobster","Homarus americanus","Wild",30,5,18.3,11.65,164
+"Bivalve","American sea scallop","Placopecten magellanicus","Wild",10.7,1.5,1.6,1.55,164
+"Crustacean","Antarctic krill","Euphausia superba","Wild",12.5,0.5,0.8,0.65,164
+"Crustacean","Argentine red shrimp","Pleoticus muelleri","Wild",58,5.7,15.4,10.55,164
+"Cephalopod","Argentine shortfin squid","Illex argentinus","Wild",67,1.1,5.3,3.2,164
+"Crustacean","Australian spiny lobster","Panulirus cygnus","Wild",25,3.9,16.8,10.35,164
 "Crustacean","Banana prawn","Penaeus merguiensis","Wild",57,7.2,16.3,11.75,179
 "Crustacean","Blue swimmer crab","Portunus armatus","Wild",25,4.5,24.6,14.55,179
 "Crustacean","Brown tiger prawn","Penaeus esculentus","Wild",58,20,34.8,27.4,179
-"Crustacean","Caribbean spiny lobster","Panulirus argus","Wild",25,5.5,22.5,14,168
-"Crustacean","Dungeness crab","Cancer magister","Wild",24.5,5.2,18.9,12.05,168
+"Crustacean","Caribbean spiny lobster","Panulirus argus","Wild",25,5.5,22.5,14,164
+"Crustacean","Dungeness crab","Cancer magister","Wild",24.5,5.2,18.9,12.05,164
 "Crustacean","Giant river prawn","Macrobrachium rosenbergii","Farmed",58,3.06,6.8,4.93,179
 "Crustacean","Giant tiger prawn","Penaeus monodon","Farmed",57,2.6,6.1,4.35,179
 "Crustacean","Giant tiger prawn","Penaeus monodon","Wild",57,20,34.8,27.4,179
-"Bivalve","New Zealand mussel","Perna canaliculus","Farmed",25,0.04,0.2,0.12,168
-"Crustacean","Northern brown shrimp","Farfantepenaeus aztecus","Wild",57,8.5,9,8.75,168
-"Crustacean","Northern white shrimp","Litopenaeus setiferus","Wild",57,8.5,9,8.75,168
-"Bivalve","Queen scallop","Aequipecten opercularis","Wild",12.1,1.2,3.2,2.2,168
- ,"Snappers","Lutjanus","Wild",46.3,2.2,4.3,3.25,138
-"Crustacean","Southern pink shrimp","Farfantepenaeus notialis","Wild",57,2.9,8.6,5.75,168
-"Crustacean","Southern rock lobster","Jasus edwardsii","Wild",25,12.4,30.2,21.3,168
- ,"Threadfin breams","Nemipterus","Wild",46.3,3.1,3.6,3.35,180
+"Bivalve","New Zealand mussel","Perna canaliculus","Farmed",25,0.04,0.2,0.12,164
+"Crustacean","Northern brown shrimp","Farfantepenaeus aztecus","Wild",57,8.5,9,8.75,164
+"Crustacean","Northern white shrimp","Litopenaeus setiferus","Wild",57,8.5,9,8.75,164
+"Bivalve","Queen scallop","Aequipecten opercularis","Wild",12.1,1.2,3.2,2.2,164
+ ,"Snappers","Lutjanus","Wild",46.3,2.2,4.3,3.25,134
+"Crustacean","Southern pink shrimp","Farfantepenaeus notialis","Wild",57,2.9,8.6,5.75,164
+"Crustacean","Southern rock lobster","Jasus edwardsii","Wild",25,12.4,30.2,21.3,164
+ ,"Threadfin breams","Nemipterus","Wild",46.3,3.1,3.6,3.35,193
 "Crustacean","Whiteleg shrimp","Penaeus vannamei","Farmed",57,2.6,6.1,4.35,179

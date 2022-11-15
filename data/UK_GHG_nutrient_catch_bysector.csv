@@ -8,7 +8,7 @@
 "Cockles",0,"wild",9645.614,9645.614,"Cockles_wild", , , 
 "Cockles",0,"imported",0,9645.614,"Cockles_imported", , , 
 "Cockles",0,"farmed",0,9645.614,"Cockles_farmed", , , 
-"Cod",0.787481293254743,"wild",28553.2603454,134356.4563454,"Cod_wild","Wild",2.75,158.190281138442
+"Cod",0.787481293254743,"wild",28553.2603454,134356.4563454,"Cod_wild","Wild",2.75,117.892733780056
 "Cod",0.787481293254743,"imported",105803.196,134356.4563454,"Cod_imported", , , 
 "Cod",0.787481293254743,"farmed",0,134356.4563454,"Cod_farmed", , , 
 "Crab",0.0942383731882086,"wild",31155.5180228,34397.0390228,"Crab_wild", , , 
@@ -26,13 +26,13 @@
 "Gurnard and Latchet",0,"wild",1053.2208785,1053.2208785,"Gurnard and Latchet_wild", , , 
 "Gurnard and Latchet",0,"imported",0,1053.2208785,"Gurnard and Latchet_imported", , , 
 "Gurnard and Latchet",0,"farmed",0,1053.2208785,"Gurnard and Latchet_farmed", , , 
-"Haddock",0.612467212492763,"wild",32482.3992011,83818.4542011,"Haddock_wild","Wild",3.9,159.496495482307
+"Haddock",0.612467212492763,"wild",32482.3992011,83818.4542011,"Haddock_wild","Wild",3.9,163.998250378533
 "Haddock",0.612467212492763,"imported",51336.055,83818.4542011,"Haddock_imported", , , 
 "Haddock",0.612467212492763,"farmed",0,83818.4542011,"Haddock_farmed", , , 
 "Hake",0.196706086748598,"wild",10969.465922998,13655.606922998,"Hake_wild", , , 
 "Hake",0.196706086748598,"imported",2686.141,13655.606922998,"Hake_imported", , , 
 "Hake",0.196706086748598,"farmed",0,13655.606922998,"Hake_farmed", , , 
-"Herring",0.0791451725281055,"wild",65427.6254756,71050.9664756,"Herring_wild","Wild",0.3,199.859579570979
+"Herring",0.0791451725281055,"wild",65427.6254756,71050.9664756,"Herring_wild","Wild",0.3,176.312547784838
 "Herring",0.0791451725281055,"imported",5623.341,71050.9664756,"Herring_imported", , , 
 "Herring",0.0791451725281055,"farmed",0,71050.9664756,"Herring_farmed", , , 
 "Horse mackerel, Atlantic",0.0143511111528684,"wild",8389.3173735,8511.4663735,"Horse mackerel, Atlantic_wild", , , 
@@ -41,7 +41,7 @@
 "Lemon Sole",0,"wild",2008.8293704,2008.8293704,"Lemon Sole_wild", , , 
 "Lemon Sole",0,"imported",0,2008.8293704,"Lemon Sole_imported", , , 
 "Lemon Sole",0,"farmed",0,2008.8293704,"Lemon Sole_farmed", , , 
-"Ling",0.0658763200094118,"wild",5854.140376,6266.986376,"Ling_wild","Wild",3.1,142.733014498516
+"Ling",0.0658763200094118,"wild",5854.140376,6266.986376,"Ling_wild","Wild",3.1,141.677748328729
 "Ling",0.0658763200094118,"imported",412.846,6266.986376,"Ling_imported", , , 
 "Ling",0.0658763200094118,"farmed",0,6266.986376,"Ling_farmed", , , 
 "Lobster Homarus spp",0.343429372132207,"wild",3265.2475764,4973.1855764,"Lobster Homarus spp_wild", , , 
@@ -50,7 +50,7 @@
 "Lobster, Norway",0.110336763561087,"wild",26472.9987775,29756.2017775,"Lobster, Norway_wild","Wild",15.25,158.700251032416
 "Lobster, Norway",0.110336763561087,"imported",3283.203,29756.2017775,"Lobster, Norway_imported", , , 
 "Lobster, Norway",0.110336763561087,"farmed",0,29756.2017775,"Lobster, Norway_farmed", , , 
-"Mackerel",0.126714472288429,"wild",138928.138684,159086.729684,"Mackerel_wild","Wild",0.25,223.763779893981
+"Mackerel",0.126714472288429,"wild",138928.138684,159086.729684,"Mackerel_wild","Wild",0.25,187.756075284107
 "Mackerel",0.126714472288429,"imported",20158.591,159086.729684,"Mackerel_imported", , , 
 "Mackerel",0.126714472288429,"farmed",0,159086.729684,"Mackerel_farmed", , , 
 "Megrim",0.0043667674225163,"wild",4649.1959111,4669.5869111,"Megrim_wild", , , 
@@ -86,7 +86,7 @@
 "Sand Eels",0,"wild",1068.633,1068.633,"Sand Eels_wild", , , 
 "Sand Eels",0,"imported",0,1068.633,"Sand Eels_imported", , , 
 "Sand Eels",0,"farmed",0,1068.633,"Sand Eels_farmed", , , 
-"Scallop",0.0415322023706882,"wild",28293.0593449,29528.7013449,"Scallop_wild","Wild",2.2,167.874966039701
+"Scallop",0.0415322023706882,"wild",28293.0593449,29528.7013449,"Scallop_wild","Wild",2.2,164.143658411367
 "Scallop",0.0415322023706882,"imported",1226.392,29528.7013449,"Scallop_imported", , , 
 "Scallop",0.0415322023706882,"farmed",9.25,29528.7013449,"Scallop_farmed", , , 
 "Seabass, European",0.959211819947143,"wild",413.7650063,10144.2380063,"Seabass, European_wild", , , 
@@ -106,7 +106,7 @@
 "Squid",0.773602629675847,"farmed",0,27574.6024919,"Squid_farmed", , , 
 "Turbot",0.194873181322507,"wild",791.405217099,982.957217099,"Turbot_wild", , , 
 "Turbot",0.194873181322507,"imported",191.552,982.957217099,"Turbot_imported", , , 
-"Turbot",0.194873181322507,"farmed",0,982.957217099,"Turbot_farmed","Farmed",20.4,148.202334815674
+"Turbot",0.194873181322507,"farmed",0,982.957217099,"Turbot_farmed","Farmed",20.4,85.8726800543367
 "Whelks",0,"wild",20186.501327,20186.501327,"Whelks_wild", , , 
 "Whelks",0,"imported",0,20186.501327,"Whelks_imported", , , 
 "Whelks",0,"farmed",0,20186.501327,"Whelks_farmed", , , 
@@ -119,7 +119,7 @@
 "Abalone",1,"wild",0,7.861,"Abalone_wild", , , 
 "Abalone",1,"imported",7.861,7.861,"Abalone_imported", , , 
 "Abalone",1,"farmed",0,7.861,"Abalone_farmed", , , 
-"Alaska pollock",1,"wild",0,31194.665,"Alaska pollock_wild","Wild",1.4,116.189119231344
+"Alaska pollock",1,"wild",0,31194.665,"Alaska pollock_wild","Wild",1.4,97.2194941521472
 "Alaska pollock",1,"imported",31194.665,31194.665,"Alaska pollock_imported", , , 
 "Alaska pollock",1,"farmed",0,31194.665,"Alaska pollock_farmed", , , 
 "Anchovy",1,"wild",0,1925.387,"Anchovy_wild", , , 
@@ -142,7 +142,7 @@
 "Clam",0.999340917806046,"farmed",1.595,2420.032,"Clam_farmed", , , 
 "Cobia",1,"wild",0,4.72,"Cobia_wild", , , 
 "Cobia",1,"imported",4.72,4.72,"Cobia_imported", , , 
-"Cobia",1,"farmed",0,4.72,"Cobia_farmed","Farmed",5,143.81191557242
+"Cobia",1,"farmed",0,4.72,"Cobia_farmed","Farmed",5,127.123211365151
 "Cusk-eel",1,"wild",0,0.674,"Cusk-eel_wild", , , 
 "Cusk-eel",1,"imported",0.674,0.674,"Cusk-eel_imported", , , 
 "Cusk-eel",1,"farmed",0,0.674,"Cusk-eel_farmed", , , 
@@ -226,7 +226,7 @@
 "Rock lobster and sea crawfish",1,"farmed",0,648.714,"Rock lobster and sea crawfish_farmed", , , 
 "Salmon",0.372636438318612,"wild",0,271378.839,"Salmon_wild", , , 
 "Salmon",0.372636438318612,"imported",101125.644,271378.839,"Salmon_imported", , , 
-"Salmon",0.372636438318612,"farmed",170253.195,271378.839,"Salmon_farmed","Farmed",2.25,180.210832483952
+"Salmon",0.372636438318612,"farmed",170253.195,271378.839,"Salmon_farmed","Farmed",2.25,179.0104724988
 "Sardine",1,"wild",0,13399.371,"Sardine_wild", , , 
 "Sardine",1,"imported",13399.371,13399.371,"Sardine_imported", , , 
 "Sardine",1,"farmed",0,13399.371,"Sardine_farmed", , , 
@@ -242,16 +242,16 @@
 "Seabass, other",1,"wild",0,201.29,"Seabass, other_wild", , , 
 "Seabass, other",1,"imported",201.29,201.29,"Seabass, other_imported", , , 
 "Seabass, other",1,"farmed",0,201.29,"Seabass, other_farmed", , , 
-"Shrimp, miscellaneous",1,"wild",0,43529.59,"Shrimp, miscellaneous_wild","Wild",13.2125,173.337125292672
+"Shrimp, miscellaneous",1,"wild",0,43529.59,"Shrimp, miscellaneous_wild","Wild",13.2125,171.471471478505
 "Shrimp, miscellaneous",1,"imported",43529.59,43529.59,"Shrimp, miscellaneous_imported", , , 
 "Shrimp, miscellaneous",1,"farmed",0,43529.59,"Shrimp, miscellaneous_farmed","Farmed",4.54333333333333,178.799284545643
-"Shrimp, warmwater",1,"wild",0,34912.551,"Shrimp, warmwater_wild","Wild",15.61,172.244693442078
+"Shrimp, warmwater",1,"wild",0,34912.551,"Shrimp, warmwater_wild","Wild",15.61,170.005908865077
 "Shrimp, warmwater",1,"imported",34912.551,34912.551,"Shrimp, warmwater_imported", , , 
 "Shrimp, warmwater",1,"farmed",0,34912.551,"Shrimp, warmwater_farmed","Farmed",4.64,178.799284545643
 "Surimi",1,"wild",0,13826.853,"Surimi_wild", , , 
 "Surimi",1,"imported",13826.853,13826.853,"Surimi_imported", , , 
 "Surimi",1,"farmed",0,13826.853,"Surimi_farmed", , , 
-"Swordfish",1,"wild",0,516.51,"Swordfish_wild","Wild",9.35,140.463166655847
+"Swordfish",1,"wild",0,516.51,"Swordfish_wild","Wild",9.35,141.16557379153
 "Swordfish",1,"imported",516.51,516.51,"Swordfish_imported", , , 
 "Swordfish",1,"farmed",0,516.51,"Swordfish_farmed", , , 
 "Tilapia",0.99903917875713,"wild",0,3868.218666667,"Tilapia_wild", , , 
@@ -262,7 +262,7 @@
 "Toothfish",1,"farmed",0,125.377,"Toothfish_farmed", , , 
 "Trout",0.102512868741842,"wild",0,15244.83725,"Trout_wild", , , 
 "Trout",0.102512868741842,"imported",1562.792,15244.83725,"Trout_imported", , , 
-"Trout",0.102512868741842,"farmed",13682.04525,15244.83725,"Trout_farmed","Farmed",5.3,221.278129638065
+"Trout",0.102512868741842,"farmed",13682.04525,15244.83725,"Trout_farmed","Farmed",5.3,177.522528653083
 "Tuna, albacore",1,"wild",0,2.38,"Tuna, albacore_wild", , , 
 "Tuna, albacore",1,"imported",2.38,2.38,"Tuna, albacore_imported", , , 
 "Tuna, albacore",1,"farmed",0,2.38,"Tuna, albacore_farmed", , , 
@@ -275,7 +275,7 @@
 "Tuna, miscellaneous",1,"wild",0,6557.869,"Tuna, miscellaneous_wild", , , 
 "Tuna, miscellaneous",1,"imported",6557.869,6557.869,"Tuna, miscellaneous_imported", , , 
 "Tuna, miscellaneous",1,"farmed",0,6557.869,"Tuna, miscellaneous_farmed", , , 
-"Tuna, skipjack",1,"wild",0,94728.569,"Tuna, skipjack_wild","Wild",3.95,195.209702749183
+"Tuna, skipjack",1,"wild",0,94728.569,"Tuna, skipjack_wild","Wild",3.95,195.567351484861
 "Tuna, skipjack",1,"imported",94728.569,94728.569,"Tuna, skipjack_imported", , , 
 "Tuna, skipjack",1,"farmed",0,94728.569,"Tuna, skipjack_farmed", , , 
 "Tuna, yellowfin",1,"wild",0,9153.731,"Tuna, yellowfin_wild", , , 
@@ -283,7 +283,7 @@
 "Tuna, yellowfin",1,"farmed",0,9153.731,"Tuna, yellowfin_farmed", , , 
 "Arctic char",0,"wild",0,12.255,"Arctic char_wild", , , 
 "Arctic char",0,"imported",0,12.255,"Arctic char_imported", , , 
-"Arctic char",0,"farmed",12.255,12.255,"Arctic char_farmed","Farmed",3.05,159.089499283169
+"Arctic char",0,"farmed",12.255,12.255,"Arctic char_farmed","Farmed",3.05,143.834302637973
 "Ballan wrasse",0,"wild",0,3.5,"Ballan wrasse_wild", , , 
 "Ballan wrasse",0,"imported",0,3.5,"Ballan wrasse_imported", , , 
 "Ballan wrasse",0,"farmed",3.5,3.5,"Ballan wrasse_farmed", , , 
