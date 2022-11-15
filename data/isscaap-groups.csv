@@ -1,0 +1,51 @@
+isscaap_code,isscaap_group_en,isscaap_group_fr,isscaap_group_es,isscaap_division_code,isscaap_division_en,isscaap_division_fr,isscaap_division_es
+11.0,"Carps, barbels and other cyprinids","Carpes, barbeaux et autres cyprinidés","Carpas, barbos y otros ciprínidos",1.0,Freshwater fishes,Poissons d'eau douce,Peces de agua dulce
+12.0,Tilapias and other cichlids,Tilapias et autres cichlidés,Tilapias y otros cíclidos,1.0,Freshwater fishes,Poissons d'eau douce,Peces de agua dulce
+13.0,Miscellaneous freshwater fishes,Poissons d'eau douce divers,Peces de agua dulce diversos,1.0,Freshwater fishes,Poissons d'eau douce,Peces de agua dulce
+21.0,"Sturgeons, paddlefishes","Esturgeons, spatules","Esturiones, sollos",2.0,Diadromous fishes,Poissons diadromes,Peces diádromos
+22.0,River eels,Anguilles,Anguilas,2.0,Diadromous fishes,Poissons diadromes,Peces diádromos
+23.0,"Salmons, trouts, smelts","Saumons, truites, éperlans","Salmones, truchas, eperlanos",2.0,Diadromous fishes,Poissons diadromes,Peces diádromos
+24.0,Shads,Aloses,Sábalos,2.0,Diadromous fishes,Poissons diadromes,Peces diádromos
+25.0,Miscellaneous diadromous fishes,Poissons diadromes divers,Peces diádromos diversos,2.0,Diadromous fishes,Poissons diadromes,Peces diádromos
+31.0,"Flounders, halibuts, soles","Flets, flétans, soles","Platijas, halibuts, lenguados",3.0,Marine fishes,Poissons marins,Peces marinos
+32.0,"Cods, hakes, haddocks","Morues, merlus, églefins","Bacalaos, merluzas, eglefinos",3.0,Marine fishes,Poissons marins,Peces marinos
+33.0,Miscellaneous coastal fishes,Poissons côtiers divers,Peces costeros diversos,3.0,Marine fishes,Poissons marins,Peces marinos
+34.0,Miscellaneous demersal fishes,Poissons démersaux divers,Peces demersales diversos,3.0,Marine fishes,Poissons marins,Peces marinos
+35.0,"Herrings, sardines, anchovies","Harengs, sardines, anchois","Arenques, sardinas, anchoas",3.0,Marine fishes,Poissons marins,Peces marinos
+36.0,"Tunas, bonitos, billfishes","Thons, pélamides, marlins","Atunes, bonitos, agujas",3.0,Marine fishes,Poissons marins,Peces marinos
+37.0,Miscellaneous pelagic fishes,Poissons pélagiques divers,Peces pelágicos diversos,3.0,Marine fishes,Poissons marins,Peces marinos
+38.0,"Sharks, rays, chimaeras","Squales, raies, chimères","Tiburones, rayas, quimeras",3.0,Marine fishes,Poissons marins,Peces marinos
+39.0,Marine fishes not identified,Poissons marins non identifiés,Peces marinos no identificados,3.0,Marine fishes,Poissons marins,Peces marinos
+41.0,Freshwater crustaceans,Crustacés d'eau douce,Crustáceos de agua dulce,4.0,Crustaceans,Crustacés,Crustáceos
+42.0,"Crabs, sea-spiders","Crabes, araignées de mer","Cangrejos, centollas",4.0,Crustaceans,Crustacés,Crustáceos
+43.0,"Lobsters, spiny-rock lobsters","Homards, langoustes","Bogavantes, langostas",4.0,Crustaceans,Crustacés,Crustáceos
+44.0,"King crabs, squat-lobsters","Crabes royaux, galatées","Cangrejos reales, galateidos",4.0,Crustaceans,Crustacés,Crustáceos
+45.0,"Shrimps, prawns",Crevettes,"Gambas, camarones",4.0,Crustaceans,Crustacés,Crustáceos
+46.0,"Krill, planktonic crustaceans","Krill, crustacés planctoniques","Krill, crustáceos planctónicos",4.0,Crustaceans,Crustacés,Crustáceos
+47.0,Miscellaneous marine crustaceans,Crustacés marins divers,Crustáceos marinos diversos,4.0,Crustaceans,Crustacés,Crustáceos
+51.0,Freshwater molluscs,Mollusques d'eau douce,Moluscos de agua dulce,5.0,Molluscs,Mollusques,Moluscos
+52.0,"Abalones, winkles, conchs","Ormeaux, bigorneaux, strombes","Orejas de mar, bígaros, estrombos",5.0,Molluscs,Mollusques,Moluscos
+53.0,Oysters,Huîtres,Ostras,5.0,Molluscs,Mollusques,Moluscos
+54.0,Mussels,Moules,Mejillones,5.0,Molluscs,Mollusques,Moluscos
+55.0,"Scallops, pectens",Coquilles St-Jacques,Vieiras,5.0,Molluscs,Mollusques,Moluscos
+56.0,"Clams, cockles, arkshells","Clams, coques, arches","Almejas, berberechos, arcas",5.0,Molluscs,Mollusques,Moluscos
+57.0,"Squids, cuttlefishes, octopuses","Encornets, seiches, poulpes","Calamares, jibias, pulpos",5.0,Molluscs,Mollusques,Moluscos
+58.0,Miscellaneous marine molluscs,Mollusques marins divers,Moluscos marinos diversos,5.0,Molluscs,Mollusques,Moluscos
+61.0,"Blue-whales, fin-whales","Baleines bleues, rorquals communs","Ballenas azules, rorcuales",6.0,"Whales, seals and other aquatic mammals","Baleines, phoques et autres mammifères aquatiques","Ballenas, focas y otros mamíferos acuáticos"
+62.0,"Sperm-whales, pilot-whales","Cachalots, globicéphales","Cachalotes, calderones",6.0,"Whales, seals and other aquatic mammals","Baleines, phoques et autres mammifères aquatiques","Ballenas, focas y otros mamíferos acuáticos"
+63.0,"Eared seals, hair seals, walruses","Otaries, phoques, morses","Lobos marinos, focas, morsas",6.0,"Whales, seals and other aquatic mammals","Baleines, phoques et autres mammifères aquatiques","Ballenas, focas y otros mamíferos acuáticos"
+64.0,Miscellaneous aquatic mammals,Mammifères aquatiques divers,Mamíferos acuáticos diversos,6.0,"Whales, seals and other aquatic mammals","Baleines, phoques et autres mammifères aquatiques","Ballenas, focas y otros mamíferos acuáticos"
+71.0,Frogs and other amphibians,Grenouilles et autres amphibies,Ranas y otros anfibios,7.0,Miscellaneous aquatic animals,Animaux aquatiques divers,Animales acuáticos diversos
+72.0,Turtles,Tortues,Tortugas,7.0,Miscellaneous aquatic animals,Animaux aquatiques divers,Animales acuáticos diversos
+73.0,Crocodiles and alligators,Crocodiles et alligators,Cocodrilos y aligátores,7.0,Miscellaneous aquatic animals,Animaux aquatiques divers,Animales acuáticos diversos
+74.0,Sea-squirts and other tunicates,Ascidiens et autres tuniciers,Ascidias y otros tunicados,7.0,Miscellaneous aquatic animals,Animaux aquatiques divers,Animales acuáticos diversos
+75.0,Horseshoe crabs and other arachnoids,Limules et autres arachnoïdés,Límulos y otros arácnidos,7.0,Miscellaneous aquatic animals,Animaux aquatiques divers,Animales acuáticos diversos
+76.0,Sea-urchins and other echinoderms,Oursins et autres échinodermes,Erizos de mar y otros equinodermos,7.0,Miscellaneous aquatic animals,Animaux aquatiques divers,Animales acuáticos diversos
+77.0,Miscellaneous aquatic invertebrates,Invertébrés aquatiques divers,Invertebrados acuáticos diversos,7.0,Miscellaneous aquatic animals,Animaux aquatiques divers,Animales acuáticos diversos
+81.0,"Pearls, mother-of-pearl, shells","Perles, nacres, coquilles","Perlas, madreperlas, conchas",8.0,Miscellaneous aquatic animal products,Produits divers d'animaux aquatiques,Diversos productos de animales acuáticos
+82.0,Corals,Coraux,Corales,8.0,Miscellaneous aquatic animal products,Produits divers d'animaux aquatiques,Diversos productos de animales acuáticos
+83.0,Sponges,Éponges,Esponjas,8.0,Miscellaneous aquatic animal products,Produits divers d'animaux aquatiques,Diversos productos de animales acuáticos
+91.0,Brown seaweeds,Algues brunes,Algas pardas,9.0,Aquatic plants,Plantes aquatiques,Plantas acuáticas
+92.0,Red seaweeds,Algues rouges,Algas rojas,9.0,Aquatic plants,Plantes aquatiques,Plantas acuáticas
+93.0,Green seaweeds,Algues vertes,Algas verdes,9.0,Aquatic plants,Plantes aquatiques,Plantas acuáticas
+94.0,Miscellaneous aquatic plants,Plantes aquatiques diverses,Diversas plantas acuáticas,9.0,Aquatic plants,Plantes aquatiques,Plantas acuáticas
