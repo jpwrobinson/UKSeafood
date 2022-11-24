@@ -1,19 +1,19 @@
-"Common name","Scientific name","Wild-caught or farmed","Dominant production method","Low GHG","High GHG","Median GHG","Annual production, tonnes","Proportion imported, %","Annual apparent consumption, tonnes","5-nutrient density, %","10-nutrient density, %"
-"Atlantic salmon","Salmo salar","Farmed","Net pen",1.6,2.9,2.2,271379,0.37,115985,179,360
-"Atlantic mackerel","Scomber scombrus","Wild","Purse seine",0.2,0.3,0.2,159087,0.13,91028,188,411
-"Atlantic cod","Gadus morhua","Wild","Bottom trawl",1.5,4,2.8,134356,0.79,107201,118,284
-"Skipjack tuna","Katsuwonus pelamis","Wild","Purse seine",1.6,6.3,4,94729,1,88126,196,349
-"Haddock","Melanogrammus aeglefinus","Wild","Bottom trawl",3.6,4.2,3.9,83818,0.61,81405,164,347
-"Atlantic herring","Clupea harengus","Wild","Purse seine",0.2,0.4,0.3,71051,0.08,26694,176,404
-"Shrimp, miscellaneous","Shrimp, miscellaneous","Farmed","Bottom trawl or intensive ponds",2.8,6.3,4.5,43530,1,31675,179,349
-"Shrimp, miscellaneous","Shrimp, miscellaneous","Wild","Bottom trawl or intensive ponds",9.6,16.8,13.2,43530,1,31675,171,342
-"Shrimp, warmwater","Shrimp, warmwater","Farmed","Bottom trawl or intensive ponds",3.1,6.8,4.9,34913,1,32066,179,239
-"Shrimp, warmwater","Shrimp, warmwater","Farmed","Bottom trawl or intensive ponds",2.6,6.1,4.3,34913,1,32066,179,239
-"Shrimp, warmwater","Shrimp, warmwater","Wild","Bottom trawl or intensive ponds",12,19.2,15.6,34913,1,32066,170,230
-"Alaska pollock","Gadus chalcogrammus","Wild","Midwater trawl",0.3,2.5,1.4,31195,1,28588,97,234
-"Norway lobster","Nephrops norvegicus","Wild", ,4.5,26,15.2,29756,0.11,4494,159,328
-"Queen scallop","Aequipecten opercularis","Wild","Dredge",1.2,3.2,2.2,29529,0.04,5335,164,337
-"Blue mussel","Mytilus edulis","Farmed","Longline",0,0.2,0.1,21800,0.26,17872,208,422
-"Blue mussel","Mytilus edulis","Wild","Longline",0.1,0.1,0.1,21800,0.26,17872,208,422
-"Rainbow trout","Oncorhynchus mykiss","Farmed","Raceway",3,8.7,5.8,15245,0.1,1959,212,418
-"Sea trout","Salmo trutta","Farmed","Raceway",1.3,8.2,4.8,15245,0.1,1959,144,350
+"UK name","Common name","Scientific name","Wild-caught or farmed","Dominant production method","Low GHG","High GHG","Median GHG","Annual production, tonnes","Proportion imported, %","Annual apparent consumption, tonnes","5-nutrient density, %","10-nutrient density, %"
+"Salmon","Atlantic salmon","Salmo salar","Farmed","Net pen",1.6,2.9,2.2,271379,37,69745,179,360
+"Mackerel","Atlantic mackerel","Scomber scombrus","Wild","Purse seine",0.2,0.3,0.2,159087,13,59040,188,411
+"Cod","Atlantic cod","Gadus morhua","Wild","Bottom trawl",1.5,4,2.8,134356,79,96908,118,284
+"Tuna, skipjack","Skipjack tuna","Katsuwonus pelamis","Wild","Purse seine",1.6,6.3,4,94729,100,90490,196,349
+"Haddock","Haddock","Melanogrammus aeglefinus","Wild","Bottom trawl",3.6,4.2,3.9,83818,61,49796,164,347
+"Herring","Atlantic herring","Clupea harengus","Wild","Purse seine",0.2,0.4,0.3,71051,8,17353,176,404
+"Shrimp, miscellaneous","Shrimp, miscellaneous","Shrimp, miscellaneous","Farmed","Bottom trawl or intensive ponds",2.8,6.3,4.5,43530,100,17557,179,349
+"Shrimp, miscellaneous","Shrimp, miscellaneous","Shrimp, miscellaneous","Wild","Bottom trawl or intensive ponds",9.6,16.8,13.2,43530,100,17557,171,342
+"Shrimp, warmwater","Shrimp, warmwater","Shrimp, warmwater","Farmed","Bottom trawl or intensive ponds",3.1,6.8,4.9,34913,100,18389,179,239
+"Shrimp, warmwater","Shrimp, warmwater","Shrimp, warmwater","Farmed","Bottom trawl or intensive ponds",2.6,6.1,4.3,34913,100,18389,179,239
+"Shrimp, warmwater","Shrimp, warmwater","Shrimp, warmwater","Wild","Bottom trawl or intensive ponds",12,19.2,15.6,34913,100,18389,170,230
+"Alaska pollock","Alaska pollock","Gadus chalcogrammus","Wild","Midwater trawl",0.3,2.5,1.4,31195,100,30153,97,234
+"Lobster, Norway","Norway lobster","Nephrops norvegicus","Wild", ,4.5,26,15.2,29756,11,1124,159,328
+"Scallop","Queen scallop","Aequipecten opercularis","Wild","Dredge",1.2,3.2,2.2,29529,4,645,164,337
+"Sea mussels","Blue mussel","Mytilus edulis","Farmed","Longline",0,0.2,0.1,21800,26,4647,208,422
+"Sea mussels","Blue mussel","Mytilus edulis","Wild","Longline",0.1,0.1,0.1,21800,26,4647,208,422
+"Trout","Rainbow trout","Oncorhynchus mykiss","Farmed","Raceway",3,8.7,5.8,15245,10,1231,212,418
+"Trout","Sea trout","Salmo trutta","Farmed","Raceway",1.3,8.2,4.8,15245,10,1231,144,350
