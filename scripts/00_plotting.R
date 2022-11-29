@@ -1,6 +1,7 @@
 pacman::p_load(ggrepel, ggradar, tidyverse, scales, janitor, cowplot, readxl, install=FALSE)
 source('scripts/theme_sleek.R')
 theme_set(theme_sleek())
+se<-function(x){sd(x)/sqrt(length(x))}
 
 th<-theme(axis.text.y=element_text(size=11.5, colour='black'),
           axis.text.x=element_text(size=11.5, colour='black'),

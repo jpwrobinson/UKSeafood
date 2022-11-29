@@ -3,18 +3,20 @@ library(readxl)
 library(janitor)
 
 food<-read_excel('data/mccance_6_nutrients.xlsx', sheet=1) %>% clean_names()
+colnames(food)[1]<-c('food_code')
 om<-read_excel('data/mccance_6_nutrients.xlsx', sheet=2) %>% clean_names() %>% select(food_code, omega_3_g)
 
 ## join omega and micronutrient values
 food<-left_join(food, om, by = 'food_code') %>% 
       mutate(across(calcium_mg:omega_3_g, as.numeric)) %>% 
       mutate(across(calcium_mg:omega_3_g, ~ replace_na(., 0)))
+colnames(food)<-str_replace_all(colnames(food), '0', 'n')
       
 
 ## filter foods of interest (from master excel)
 focs<-c('12-937', ## eggs whole raw
         '18-488', ## Chicken, meat, average, raw
-        '18-267', ## Pork, mince, raw
+        '18-606', ## Pork, mince, raw
         '18-064', ## Beef, sirloin steak, raw, lean
         '18-481', ## Lamb, mince, raw
         '14-319', ## Apples, eating, raw, flesh and skin
@@ -39,6 +41,11 @@ foodF$fe_rda<-foodF$iron_mg/rda$rni_women[rda$nutrient=='iron']*100
 foodF$se_rda<-foodF$selenium_mug/rda$rni_women[rda$nutrient=='selenium']*100
 foodF$zn_rda<-foodF$zinc_mg/rda$rni_women[rda$nutrient=='zinc']*100
 foodF$om_rda<-foodF$omega_3_g/rda$rni_women[rda$nutrient=='omega_3']*100
+foodF$vita_rda<-foodF$vitamin_a_mug/rda$rni_women[rda$nutrient=='vitamin_a']*100
+foodF$vitd_rda<-foodF$vitamin_d_mug/rda$rni_women[rda$nutrient=='vitamin_d']*100
+foodF$vitb12_rda<-foodF$vitamin_b12_mug/rda$rni_women[rda$nutrient=='vitamin_b12']*100
+foodF$folate_rda<-foodF$folate_mug/rda$rni_women[rda$nutrient=='folate']*100
+foodF$iodine_rda<-foodF$iodine_mug/rda$rni_women[rda$nutrient=='iodine']*100
 
 ## now cap nutrient RDA at 100% (i.e. a species either meets (100%) or doesn't meet (<100%) the RDA)
 # TY BEAL: https://twitter.com/TyRBeal/status/1344662877458886656
@@ -47,6 +54,11 @@ foodF$fe_rda[foodF$fe_rda>100]<-100
 foodF$se_rda[foodF$se_rda>100]<-100
 foodF$zn_rda[foodF$zn_rda>100]<-100
 foodF$om_rda[foodF$om_rda>100]<-100
+foodF$vita_rda[foodF$vita_rda>100]<-100
+foodF$vitd_rda[foodF$vitd_rda>100]<-100
+foodF$vitb12_rda[foodF$vitb12_rda>100]<-100
+foodF$folate_rda[foodF$folate_rda>100]<-100
+foodF$iodine_rda[foodF$iodine_rda>100]<-100
 
 ## now add prob nutrient adequacy (mean rda), and price to reach 40% nutrient adequacy
 foodF <- foodF %>% rowwise() %>%

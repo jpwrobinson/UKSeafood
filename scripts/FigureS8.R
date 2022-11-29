@@ -31,7 +31,7 @@ nutCO<-read.csv('data/UK_GHG_nutrient_catch.csv') %>%
   filter(top90 == TRUE & !species %in% drops & !is.na(mid)) %>%
   select(-tax) %>%
   rowwise() %>%
-  mutate(n_targets = sum(c(ca_rda, fe_rda, se_rda, zn_rda, om_rda, vita_rda, vitb12_rda, vitd_rda, folate_rda) > 25),  ## estimate nutrition targets (25% RDA) for each species)
+  mutate(n_targets = sum(c(ca_rda, fe_rda, se_rda, zn_rda, om_rda, vita_rda, vitb12_rda, vitd_rda, folate_rda, iodine_rda) > 15),  ## estimate nutrition targets (15% RDA) for each species)
         n_targets2 = sum(c(ca_rda, fe_rda, se_rda, zn_rda, om_rda) > 25), 
          nt_co2 = mid / edible_fraction / n_targets / 10, ## estimate the CO2 equivalent per RDA target
          common_name = factor(common_name, levels = levels(fct_reorder(common_name, nt_co2)))) %>% 
